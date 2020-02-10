@@ -25,6 +25,7 @@
 <?php
 
     wp_footer();
+    //
 ?>
 </footer>
 <br><br><br><br>
