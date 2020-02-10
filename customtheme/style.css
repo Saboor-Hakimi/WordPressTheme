@@ -1,0 +1,44 @@
+/*
+Theme Name: The conjuring story
+Description: A Theme for WordPress with Bootstrap for styling.
+Author: Abdul Saboor Hakimi
+Author URI: http://www.github.com/saboor-hakimi
+Version: 1.0b
+ */
+*::-webkit-scrollbar{
+    display: none;
+}
+*::selection{
+    background-color: black;
+    color: white;
+}
+*{
+    cursor: url("http://localhost/wordpress/wp-content/themes/customtheme/images/icon.png"), default;
+}
+ body{
+     background-color: white;
+     color: black;
+ }
+ p{
+     font-size: .8rem
+ }
+ 
+.btn:hover{
+    background-color: #007bff;
+    color: white;
+}
+.card{
+    width: 300px;
+    float: left;
+    margin-top: -200px;
+}
+.jumbotron{
+    border-bottom: 3px solid gray;
+}
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
