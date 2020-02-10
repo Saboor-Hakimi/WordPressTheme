@@ -1,8 +1,10 @@
 <?php get_header(); ?>
   <!-- Other Content here -->
-  <br><br><br>
+  
   <div class="container">
-
+  
+  <div id="company">
+  <br><br><br>
   <h1 class="font-weight-bolder">
     The Company
   </h1>
@@ -16,7 +18,7 @@ hands-on national and international experience across <br>
 multiple industries and in various areas of expertise.  <br>
 
   </div>
-
+  </div>
 
   <hr>
   <br>
@@ -41,13 +43,13 @@ which has resulted in substantial growth and expansion of the firm in the Afghan
 
     <br>
 
-    <div class="container">
+    <div class="container align-content-center">
       <div class="row">
-        <div class="col-lg-2 bg-dark mr-1">sadf</div>
-        <div class="col-lg-2 bg-dark mr-1">sadf</div>
-        <div class="col-lg-2 bg-dark mr-1">asdfas <br><br> <br> <br> <br> <br> <br></div>
-        <div class="col-lg-2 bg-dark mr-1">asdsaf</div>
-        <div class="col-lg-2 bg-dark">asdfds</div>
+        <div class="col-lg-2 bg-light mr-1 text-center"><h3>Award for Something <br><div class="border mt-3 font-weight-light py-2">Source</div></h3></div>
+        <div class="col-lg-2 bg-light mr-1 text-center"><h3>Award for Something <br><div class="border mt-3 font-weight-light py-2">Source</div></h3></div>
+        <div class="col-lg-2 bg-light mr-1 text-center"><h3>Award for Something <br><div class="border mt-3 font-weight-light py-2">Source</div></h3> <br></div>
+        <div class="col-lg-2 bg-light mr-1 text-center"><h3>Award for Something <br><div class="border mt-3 font-weight-light py-2">Source</div></h3></div>
+        <div class="col-lg-2 bg-light text-center"><h3>Award for Something <br><div class="border mx-auto font-weight-light text-center py-2 mt-3">Source</div></h3></div>
 
       </div>
     </div>
@@ -75,18 +77,25 @@ empower great talent by providing our team with rewarding career opportunities, 
  <p class="text-justify font-weight-bolder">At AACS Consulting, we live by and are driven by these five core values:</p>
  <br><br>
 
-  <div style="height: 150px; border: 1px solid black; border-radius: 0% 150px 150px 0;">
-  <span style="width: 70%;position: absolute; height: 150px; border: 1px solid black; border-radius: 0% 150px 150px 0;">  asdfds
-  </span>
-  <span style="width: 55%;position: absolute; height: 150px; border: 1px solid black; border-radius: 0% 150px 150px 0;">  asdfds
-  </span>
-  <span style="width: 40%;position: absolute; height: 150px; border: 1px solid black; border-radius: 0% 150px 150px 0;">  asdfds
-  </span>
-  <span style="width: 20%;position: absolute; height: 150px; border: 1px solid black; border-radius: 0% 150px 150px 0;">  asdfds
-  </span>
-  </div>
-  </div>
+  <div class="text-left">
+    
+    <div class="row final">
+      <div class="col-3 bg-light my-auto pt-2" style="z-index:10;"><span class="haha bg-primary"></span><h3 class="mb-3">Integrity</h3>
+      Be honest and have
+strong moral principles</div>
+      <div class="col-2 bg-light my-auto pt-2 pl-5" style="z-index:9;"><span class="haha2 haha bg-primary"></span><h3 class="mb-3">&nbsp;Integrity</h3>&nbsp;&nbsp; Be innovative &nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;and original
+</div>
+      <div class="col-3 bg-light my-auto pt-2 text-center pl-5" style="z-index:8;"><span class="haha3 haha bg-primary"></span><h3 class="mb-3">Responsibility</h3>Have moral obligations</div>
+      <div class="col-2 bg-light my-auto pt-2 pl-5 text-center" style="z-index:7;"><span class="haha4 haha bg-primary"></span><h3 class="mb-3">Passion</h3>&nbsp;&nbsp;you have to have it</div>
+      <div class="col-2 bg-light my-auto pt-2 pl-5" style="z-index:6;"><span class="haha5 haha bg-primary"></span><h3 class="mb-3">&nbsp;Kaizen</h3>&nbsp;&nbsp;&nbsp;&nbsp;Continuous
+      &nbsp;&nbsp;&nbsp;Improvements</div>
+      <div class="col-3 bg-light my-auto pt-2 text-center pl-5" style="z-index:5;"><span class="haha6 haha bg-primary"></span><h3 class="mb-3">Test</h3>&nbsp; laksdfj lkasdj flkjas dflkajs df
+    aasdfasdf</div>
+    </div>
 
+  </div>
+</div>
 
 </div>
 

@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="shortcut icon" href="http://localhost/wordpress/wp-content/themes/customtheme/images/icon.png" type="image/x-icon">
     <script
   src="https://code.jquery.com/jquery-3.4.1.min.js"
   integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
@@ -13,6 +14,14 @@
   <link rel="stylesheet" href="
   https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="wp-content/themes/customtheme/style.css">
+    <link rel="stylesheet" href="wp-content/themes/customtheme/bootstrap/css/bootstrap.min.css">
+    <script src="wp-content/themes/customtheme/bootstrap/js/bootstrap.min.js"></script>
+    <script src="wp-content/themes/customtheme/jquery.js"></script>
+    <script>
+
+
+    
+    </script>
     <title>AACA</title>
 </head>
 
